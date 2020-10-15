@@ -78,7 +78,7 @@ header .profile-image:hover {
 }
 .tag {
   background-color: #efefef;
-  color: black;
+  color: red;
   padding: 10px;
   border-radius: 5px;
   display: table;
