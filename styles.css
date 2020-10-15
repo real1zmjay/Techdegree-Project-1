@@ -78,7 +78,7 @@ header .profile-image:hover {
 }
 .tag {
   background-color: #efefef;
-  color: red;
+  color: black;
   padding: 10px;
   border-radius: 5px;
   display: table;
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: yellow;
+  color: green;
 }
 .card {
   margin: 30px;
