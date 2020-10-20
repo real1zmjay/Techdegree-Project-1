@@ -1,6 +1,11 @@
 h1 {
     color: orange;
 }
-body{
-     font-family:"Roboto";
+body {
+    font-family:"Roboto";
+}
+
+.main-image {
+    border: Solid 4px black;
+    border-radius: 70%;
 }
