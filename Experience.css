@@ -13,3 +13,7 @@ h1 {
     background-color: #FF0000;
     padding: 7px
 }
+
+.section-title {
+    text transform: Uppercase;
+}
