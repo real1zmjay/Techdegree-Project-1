@@ -9,3 +9,7 @@ body {
     border: Solid 4px black;
     border-radius: 70%;
 }
+h1 {
+    background-color: #FF0000;
+    padding: 7px
+}
